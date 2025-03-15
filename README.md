@@ -63,7 +63,7 @@ Infographic Competition in RASIO UNPAD
 ## 📚Certification Courses
 1. [MySkill](https://storage.googleapis.com/myskill-v2-certificates/topic-q4UxJQUaSD1OshMqlZap/FvTwRMVc5hUHPOXdKDVkjOA2vi63-qwgBo1Kf9yLcVG8WODoO.pdf) | Microsoft Excel Advanced `Feb' 2025`
 2. [Coursera](https://coursera.org/share/c7e337a85797b1e8123a9b0b31f010ea) | Investment Risk Management `Jan' 2025`
-3. [Celerates X MSIB](https://drive.google.com/file/d/1uIztAL9qpL1gORMD83vO_YvU984Mkrw0/view?usp=sharing) | Data Science Basics `Aug' 2023-Dec' 2023`
+3. [Celerates X MSIB](https://drive.google.com/file/d/1uIztAL9qpL1gORMD83vO_YvU984Mkrw0/view?usp=sharing) | Data Science Basics `Jan' 2024-Jun' 2024`
 4. [RevoU X MSIB](https://drive.google.com/file/d/1PtRYe4-laLAx3vM_YibtsBb1e-3V-qMT/view?usp=sharing) | Data Analytics and Software Engineering `Aug' 2023-Dec' 2023`
 
 
