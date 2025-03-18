@@ -68,9 +68,12 @@ Infographic Competition in RASIO UNPAD
 
 
 ### 🛠️ Skills & Others:
-Hard Skills: Microsoft Office, R Studio, Canva, SPSS, Minitab, E-Views, Google Collab, Google Looker Studio, Tableau, SQL,      Python
+Hard Skills: Microsoft Office, R Studio, Canva, SPSS, Minitab, E-Views, Google Collab, Google Looker Studio, Tableau, SQL,Python
+
 Soft Skills	: Public Speaking, Communication, Analytical, Leadership
+
 Training	: Training Software Statistics (2021), LKMMPD Himasta (2021), LKMMD Psikologi (2022)
+
 Languages	: Indonesia (Native), English
 
 ---
