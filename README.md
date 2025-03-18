@@ -7,7 +7,7 @@ I am a fresh graduate in statistics with a deep interest in data analysis and da
 Additionally, I am particularly interested in applying these techniques to identify and mitigate risks that could impact an organization's performance. Through academic projects and internships, I have gained experience in processing and analyzing large datasets, as well as presenting the results of my analysis in a clear and understandable way. I am also proficient in using various statistical tools and software such as R, Python, and Excel for data analysis and report preparation.
 
 ## 🎓 Education:
-#### 1. [Universitas Diponegoro](https://www.undip.ac.id) | Bachelor of Statistics | Semarang `2021-2024`
+#### 1. [Universitas Diponegoro](https://www.undip.ac.id) | Bachelor of Statistics | Semarang `2021-2025`
      IPK: 3.88 (out of 4.00)
    - Activities: Student Executive Board of Sains and Mathematics Faculty (BEM FSM UNDIP), SCSCSI UNDIP, BIOSS UNDIP, and Assistant Lecturer in Insurance, Regression Analysis, and Categorical Data Analysis
    - Achievements: 3rd Place and Favorit Winner Statistics Infographics Competition Statistics Festival UGM, Finalist in ASEAN Level Infographic Competition in RASIO UNPAD, Awardee BSI Prestasi Scholarship Batch 3, and P2MW Awardee (Nationally Funded Student Entrepreneurship Program)
@@ -86,5 +86,5 @@ Languages	: Indonesia (Native), English
 
 📂 [Creative Portfolio](https://drive.google.com/file/d/1lskoEBvh2ObVplpxim1FANUWFyz1AGIF/view?usp=sharing)
 
-📄 [View My CV](https://drive.google.com/file/d/1KErsvmhFrW7qKGNr9eOc7LkbYfOa3Djo/view?usp=sharing)
+📄 [View My CV](https://drive.google.com/file/d/19qWoMwaTQX8dJgXAWq6YlFO5hnvJA1MN/view?usp=sharing)
 
