@@ -18,7 +18,7 @@ Additionally, I am particularly interested in applying these techniques to ident
    - Data Analytics: Understand the analysis process from understanding business problems, data cleaning, SQL implementations, and data visualization
    - Software Engineering: Carrying out the process of developing software system applications using HTML, CSS, and JavaScript as well as back end development and publishing projects (deployments)
 
-#### 2. [Celerates Data Science Basics](https://celerates.co.id/) | Celerates X Kampus Merdeka | Semarang `Aug' 2023-Dec' 2023`
+#### 2. [Celerates Data Science Basics](https://celerates.co.id/) | Celerates X Kampus Merdeka | Semarang `Jan' 2024-Jun' 2024`
      IPK: 91 (out of 100)
    - Learn databases and SQL, data warehouse and ETL, python for data science, statistics, data visualization, machine learning, and deep learning
  
