@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About Me:
 
-I am a fresh graduate in statistics with a deep interest in data analysis and data science. Throughout my studies, I have gained a strong understanding of statistical methods, programming, and data analysis techniques used for data-driven decision making.
+I am a fresh graduate in statistics with a deep interest in data analysis, data science, and risk management. Throughout my studies, I have gained a strong understanding of statistical methods, programming, and data analysis techniques used for data-driven decision making.
 
 Additionally, I am particularly interested in applying these techniques to identify and mitigate risks that could impact an organization's performance. Through academic projects and internships, I have gained experience in processing and analyzing large datasets, as well as presenting the results of my analysis in a clear and understandable way. I am also proficient in using various statistical tools and software such as R, Python, and Excel for data analysis and report preparation.
 
@@ -23,22 +23,27 @@ Additionally, I am particularly interested in applying these techniques to ident
    - Learn databases and SQL, data warehouse and ETL, python for data science, statistics, data visualization, machine learning, and deep learning
  
 ## 💼 Work Experience:
-#### 1. [PT. Jasa Teknik Indonesia](https://jastekindo.co.id/) | Data Entry Specialist Intern | Ungaran, Semarang `Mar'2025-Current`
+#### 1. [PT. Bank Mandiri Tbk](www.bankmandiri.co.id) | Business Management Intern | Purwokerto, Jawa Tengah `Mei'2025-Current`
+- **Data Cleaning & Processing :** Cleaned and processed internal data using Microsoft Excel and Google Sheets, ensuring accuracy and consistency for analysis.
+- **Market Research & Insight Generation :** Analyzed customer behavior trends through survey and transactional data, identifying patterns to inform product development ideas.
+- **Strategic Data Support for Decision-Making :** Collaborated in preparing internal presentations by supplying cleaned and visualized data that supported decision-making in business development.
+
+#### 2. [PT. Jasa Teknik Indonesia](https://jastekindo.co.id/) | Data Entry Specialist Intern | Ungaran, Semarang `Mar'2025-Current`
  - Entered and managed 5000+ company database records with 99% accuracy.
  - Performed data cleansing to ensure consistency and reliability.
  - Coordinated with 10+ stakeholders to verify and validate data integrity.
 
-#### 2. [Diponegoro University](https://www.undip.ac.id) | Asistant Lecturer Categorical Data Analysis | Semarang `Mar' 2024-Dec' 2024`
+#### 3. [Diponegoro University](https://www.undip.ac.id) | Asistant Lecturer Categorical Data Analysis | Semarang `Mar' 2024-Dec' 2024`
    - Taught and assisted more than 180 students in preparing laboratory reports using a systematic and clear approach.
    - Developed more than 5 teaching modules and practice questions to enhance students' understanding of categorical data analysis concepts.
    - Supported lecturers in evaluating more than 180 student reports to ensure optimal learning quality.
    
-#### 3. [Kantor Wilayah DJBC Jawa Tengah dan D.I. Yogyakarta](www.beacukai.go.id) | Bidang Penindakan dan Penyidikan Intern | Semarang, Indonesia `Dec'2023-Feb' 2024`
+#### 4. [Kantor Wilayah DJBC Jawa Tengah dan D.I. Yogyakarta](www.beacukai.go.id) | Bidang Penindakan dan Penyidikan Intern | Semarang, Indonesia `Dec'2023-Feb' 2024`
    - Processed and analyzed over 100+ data entries related to customs and excise violations, generating detailed analytical reports to support enforcement actions.
 -	Conducted on-site inspections at 3+ correctional facilities, prosecutor's offices, and ports, ensuring document completeness and familiarizing with operational workflows.
 -	Streamlined and organized a data and document archive system, improving record retrieval efficiency by 30% and ensuring seamless access to critical files.
 
-#### 4. [Badan Pusat Statistik Banyumas](https://banyumaskab.bps.go.id/id) | Student Intern | Banyumas `Jul' 2023-Aug' 2023`
+#### 5. [Badan Pusat Statistik Banyumas](https://banyumaskab.bps.go.id/id) | Student Intern | Banyumas `Jul' 2023-Aug' 2023`
    -	Entered and processed 1000+ data entries using advanced statistical software and applications, ensuring accurate and efficient data management.
 -	Conducted thorough data validation, cross-checking 1500+ data points to ensure completeness and precision in national survey results.
 
@@ -68,7 +73,7 @@ Infographic Competition in RASIO UNPAD
 
 
 ### 🛠️ Skills & Others:
-Hard Skills: Microsoft Office, R Studio, Canva, SPSS, Minitab, E-Views, Google Collab, Google Looker Studio, Tableau, SQL,Python
+Hard Skills: Microsoft Office, R Studio, Canva, SPSS, Minitab, E-Views, Google Collab, Google Looker Studio, Tableau, SQL,Python, Power BI
 
 Soft Skills	: Public Speaking, Communication, Analytical, Leadership
 
